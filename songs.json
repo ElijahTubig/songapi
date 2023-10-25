@@ -1,0 +1,41 @@
+   {
+         "song1" : {
+            "song" : "Umaasa",
+            "artist" : "Calein",
+            "genre" : "indie",
+            "link" : "https://www.youtube.com/watch?v=DmVjmzOmUO4",
+            "id" : 1
+         },
+      
+         "song2" : {
+            "song" : "Kundiman",
+            "artist" : "Silent Sanctuary",
+            "genre" : "pinoy rock",
+            "link" : "https://www.youtube.com/watch?v=4GcDj2kWnKg",
+            "id": 2
+         },
+      
+         "song3" : {
+            "song" : "homebdy",
+            "artist" : "Demi",
+            "genre" : "rap",
+            "link" : "https://www.youtube.com/watch?v=3o0dR8o_3ro",
+            "id": 3
+         },
+
+         "song4" : {
+            "song" : "Kaleidoscope World",
+            "artist" : "Francis Magalona",
+            "genre" : "alternative rock",
+            "link" : "https://www.youtube.com/watch?v=ClNTn1wtq7E",
+            "id": 4
+         },
+      
+         "song5" : {
+            "song" : "You",
+            "artist" : "Basil Valdez",
+            "genre" : "jazz",
+            "link" : "https://www.youtube.com/watch?v=f9ugUAEkZW4",
+            "id": 5
+         }
+   }
